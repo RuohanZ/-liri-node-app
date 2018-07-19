@@ -137,5 +137,7 @@ switch (command) {
 //for the bonus, just make a function that append the results and a new line character (fs.appendFile)
 //and call it everytime for results. 
 
+//updated protfolio: https://ruohanz.github.io/Responsive-Portfolio/
+
 
 
